@@ -4,7 +4,11 @@
       color: #E80C7A;
       font-family: sans-serif;
     }
-    
+    {
+        header img{
+            border-radius:50%;
+        }
+    }
     h2{
       color: #1FCCB2;
     }
