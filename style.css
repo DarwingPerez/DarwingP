@@ -1,5 +1,5 @@
 
-   body{
+  body{
       color: #212121;
       font-family: sans-serif;
     }
@@ -28,6 +28,18 @@
         border-radius: 50%;
     }  
     
+    header h1{
+        font-family: 'Lobster', cursive;
+    }
+    
     h2{
       color: #1FCCB2;
     }
+    
+    section{
+       text-align
+        background-image: url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
+        height:400px;
+    }
+    
+    
