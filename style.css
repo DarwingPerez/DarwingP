@@ -1,5 +1,5 @@
-
-  body{
+    
+    body{
       color: #212121;
       font-family: sans-serif;
     }
@@ -37,9 +37,10 @@
     }
     
     section{
-       text-align
+        text-align: center;
         background-image: url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
-        height:400px;
+        height: 400px;
+        background-size: cover;
     }
     
     
